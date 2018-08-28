@@ -1,7 +1,7 @@
 # House-Prices
 
 ## Data description: 
-6.3 MB of training data, containing around 80 features like no. of rooms, house area, garage quality (if present), kitchen quality, electrical connections’ quality etc, and the goal was to predict sale price of the house.
+Data was obtained from kaggle. There were 1460 samples, containing around 80 features like no. of rooms, house area, garage quality (if present), kitchen quality, electrical connections’ quality etc, and the goal was to predict sale price of the house.
 
 
 ## Data exploration and preparation: 
