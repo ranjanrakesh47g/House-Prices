@@ -1,0 +1,55 @@
+MSZoning : NA
+
+LotFrontage : 0
+Alley : NA
+
+Utilities : NA
+
+Exterior1st : Other
+
+Exterior2nd : Other
+
+MasVnrType : None
+MasVnrArea : 0
+BsmtQual : NA
+BsmtCond : NA
+BsmtExposure : NA
+BsmtFinType1 : NA
+
+BsmtFinSF1 : 0
+
+BsmtFinType2 : NA
+
+BsmtFinSF2 : 0
+
+BsmtUnfSF : 0
+
+TotalBsmtSF : 0
+
+Electrical : FuseP
+
+BsmtFullBath : 0
+
+BsmtHalfBath : 0
+
+KitchenQual : Po
+
+Functional : Sal
+
+FireplaceQu : NA
+GarageType : NA
+GarageYrBlt : 1000
+GarageFinish : NA
+
+GarageCars : 0
+
+GarageArea : 0
+
+GarageQual : NA
+GarageCond : NA
+PoolQC : NA
+Fence : NA
+MiscFeature : NA
+
+SaleType : Oth
+

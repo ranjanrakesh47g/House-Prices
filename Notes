@@ -1,0 +1,6 @@
+YearBuilt : Remove
+YearRemodAdd: Remove; Add Age: 2016 - YearRemodAdd
+GarageYrBlt : Remove; Add GarageAge: 2016 - GarageYrBlt
+MoSold : Remove
+YrSold : Remove; Add SoldSinceYr : 2016 - YrSold
+

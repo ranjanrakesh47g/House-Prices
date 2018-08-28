@@ -1,0 +1,44 @@
+MSSubClass : int
+MSZoning
+Street
+Alley
+LotShape
+LandContour
+Utilities
+LotConfig
+LandSlope
+Neighborhood
+Condition1
+Condition2
+BldgType
+HouseStyle
+RoofStyle
+RoofMatl
+Exterior1st
+Exterior2nd
+MasVnrType
+ExterQual : ordinal
+ExterCond : ordinal
+Foundation
+BsmtQual : ordinal
+BsmtCond : ordinal
+BsmtExposure : ordinal
+BsmtFinType1 : ordinal
+BsmtFinType2 : ordinal
+Heating
+HeatingQC : ordinal
+CentralAir
+Electrical : ordinal
+KitchenQual : ordinal
+Functional : ordinal
+FireplaceQu : ordinal
+GarageType
+GarageFinish
+GarageQual : ordinal
+GarageCond : ordinal
+PavedDrive : ordinal
+PoolQC : ordinal
+Fence : ordinal
+MiscFeature
+SaleType
+SaleCondition
