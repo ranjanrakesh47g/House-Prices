@@ -37,7 +37,7 @@ Linear-models:
 
 
 ## Final ensemble:
-Stacking
+- Stacking
 
 
 ## Result:
