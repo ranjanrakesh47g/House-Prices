@@ -11,8 +11,8 @@
 - Standardization
 
 
-## Algorithms used:
-Trees:	
+## Models used:
+Tree-models:	
 - XGBoost
 - GBM
 - ExtraTrees
@@ -20,7 +20,7 @@ Trees:
 - AdaBoost
 - Bagging
 
-Linear:	
+Linear-models:	
 - Ridge
 - Lasso
 - LassoCV
@@ -32,10 +32,8 @@ Linear:
 ## Hyperparameter tuning:
 - 10 fold CV + GridSearch;
 - 10 fold CV + GridSearch + RandomSearch, always better than GridSearch;
-- 10 fold CV + GridSearch + Genetic algorithm: ‘sklearn-deap’ package,
-                  stuck in local optima, sometimes better than RandomSearch;                       
-- 10 fold CV + GridSearch + Bayesian optimisation: ‘hyperopt’ package,
-                  performed the best in most cases.
+- 10 fold CV + GridSearch + Genetic algorithm:  stuck in local optima, sometimes better than RandomSearch;                       
+- 10 fold CV + GridSearch + Bayesian optimisation:  performed the best in most cases.
 
 
 ## Final ensemble:
