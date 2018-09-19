@@ -43,4 +43,3 @@ Linear-models:
 ## Result:
 - R2 score on train set: 0.889743
 - R2 score on test set: 0.87435
-- Kaggle rank: 1212 (Top 36%), as on 14th Jan 2017
